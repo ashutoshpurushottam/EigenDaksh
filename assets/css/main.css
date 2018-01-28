@@ -1189,6 +1189,21 @@
 
 	@media screen and (max-width: 480px) {
 
+		.videoWrapper {
+	    	position: relative;
+    		padding-bottom: 56.5%; 
+    		padding-top: 25px;
+    		height: 0;
+		}
+	
+		.videoWrapper iframe {
+			padding-left: 7em;
+    		position: absolute;
+    		width: 90%;
+    		height: 90%;
+		}	
+
+
 		.row > * {
 			padding: 0 0 0 1.25em;
 		}
