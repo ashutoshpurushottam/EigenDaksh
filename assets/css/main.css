@@ -29,6 +29,10 @@
     	position: absolute;
     	width: 60%;
     	height: 60%;
+	}
+
+	.oomph {
+		color:  #ccff66;
 	}	
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
