@@ -1880,11 +1880,11 @@
 			}
 
 		header.major > p {
-			font-size: 0.7em;
+			font-size: 0.80em;
 			font-weight: 600;
-			letter-spacing: 0.25em;
+			letter-spacing: 0.15em;
 			margin-bottom: 0;
-			text-transform: uppercase;
+			text-transform: none;
 		}
 
 		body.is-ie header.major > :first-child:after {
@@ -2917,7 +2917,7 @@
 
 			.tiles article {
 				padding: 4em 3em 2em 3em ;
-				height: 30vh;
+				height: 40vh;
 				max-height: 30em;
 				min-height: 20em;
 			}
